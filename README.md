@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<title>Onimim Johnarry - Data Analyst Portfolio</title>
 </head>
 
 <body>

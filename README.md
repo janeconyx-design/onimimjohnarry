@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+
 <title>Onimim Johnarry - Data Analyst Portfolio</title>
 </head>
 
@@ -31,7 +31,7 @@
 
 <h2>Contact</h2>
 
-<p>Email: your@email.com</p>
+<p>Email: onimim@gmail.com</p>
 
 </body>
-</html># onimimjohnarry
+

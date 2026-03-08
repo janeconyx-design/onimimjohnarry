@@ -6,7 +6,7 @@
 <body>
 
 <h1>Onimim Johnarry</h1>
-<h2>Healthcare Data Analyst | SQL | Python | Power BI</h2>
+<h2>Healthcare Data Analyst | SQL | Excel | Power BI</h2>
 
 <p>I specialize in healthcare analytics, digital transformation, and data visualization. I build dashboards and data solutions that help organizations make better decisions.</p>
 

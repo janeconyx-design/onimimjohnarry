@@ -22,8 +22,7 @@
 
 <ul>
 <li>SQL</li>
-<li>Python</li>
-<li>Power BI</li>
+<li>Power Bi</li>
 <li>Excel</li>
 <li>Data Visualization</li>
 </ul>
